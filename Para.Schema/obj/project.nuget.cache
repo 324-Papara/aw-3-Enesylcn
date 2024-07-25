@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UcFns13yQ8E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enesyalcin\\Desktop\\PaparaDoc\\Yeni klasör\\aw-3-Enesylcn\\Para.Schema\\Para.Schema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enesyalcin\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\enesyalcin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

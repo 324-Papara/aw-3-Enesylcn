@@ -1,0 +1,71 @@
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\bin\Debug\net8.0\Para.Data.deps.json
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\bin\Debug\net8.0\Para.Data.runtimeconfig.json
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\bin\Debug\net8.0\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\bin\Debug\net8.0\Para.Data.pdb
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\bin\Debug\net8.0\Para.Base.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\bin\Debug\net8.0\Para.Base.pdb
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.csproj.AssemblyReference.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.AssemblyInfoInputs.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.AssemblyInfo.cs
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.csproj.CoreCompileInputs.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.csproj.Up2Date
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\refint\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.pdb
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\Para.Data.genruntimeconfig.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta3_Yeni\pk-ppr-main\Para.Api\Para.Data\obj\Debug\net8.0\ref\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.csproj.AssemblyReference.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.AssemblyInfoInputs.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.AssemblyInfo.cs
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.csproj.CoreCompileInputs.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.sourcelink.json
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\bin\Debug\net8.0\Para.Data.deps.json
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\bin\Debug\net8.0\Para.Data.runtimeconfig.json
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\bin\Debug\net8.0\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\bin\Debug\net8.0\Para.Data.pdb
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\bin\Debug\net8.0\Para.Base.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\bin\Debug\net8.0\Para.Base.pdb
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.csproj.Up2Date
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\refint\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.pdb
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.genruntimeconfig.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\ref\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\bin\Debug\net8.0\Para.Data.deps.json
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\bin\Debug\net8.0\Para.Data.runtimeconfig.json
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\bin\Debug\net8.0\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\bin\Debug\net8.0\Para.Data.pdb
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\bin\Debug\net8.0\Para.Base.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\bin\Debug\net8.0\Para.Base.pdb
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.csproj.AssemblyReference.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.AssemblyInfoInputs.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.AssemblyInfo.cs
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.csproj.CoreCompileInputs.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.sourcelink.json
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.csproj.Up2Date
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\refint\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.pdb
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\Para.Data.genruntimeconfig.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Hafta4_yeni\Papara_Task_Week3\Para.Data\obj\Debug\net8.0\ref\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\bin\Debug\net8.0\Para.Data.deps.json
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\bin\Debug\net8.0\Para.Data.runtimeconfig.json
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\bin\Debug\net8.0\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\bin\Debug\net8.0\Para.Data.pdb
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\bin\Debug\net8.0\Para.Base.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\bin\Debug\net8.0\Para.Base.pdb
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\obj\Debug\net8.0\Para.Data.csproj.AssemblyReference.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\obj\Debug\net8.0\Para.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\obj\Debug\net8.0\Para.Data.AssemblyInfoInputs.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\obj\Debug\net8.0\Para.Data.AssemblyInfo.cs
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\obj\Debug\net8.0\Para.Data.csproj.CoreCompileInputs.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\obj\Debug\net8.0\Para.Data.sourcelink.json
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\obj\Debug\net8.0\Para.Data.csproj.Up2Date
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\obj\Debug\net8.0\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\obj\Debug\net8.0\refint\Para.Data.dll
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\obj\Debug\net8.0\Para.Data.pdb
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\obj\Debug\net8.0\Para.Data.genruntimeconfig.cache
+C:\Users\enesyalcin\Desktop\PaparaDoc\Yeni klasör\aw-3-Enesylcn\Para.Data\obj\Debug\net8.0\ref\Para.Data.dll
